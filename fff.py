@@ -14,3 +14,6 @@ for n in new_list:
 if __name__ == '__main__':
     func()
     print('程序结束')
+
+    print('aaa')
+
